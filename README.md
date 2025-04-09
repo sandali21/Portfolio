@@ -6,5 +6,4 @@ This repository showcase my projects, skills, and work I've done throughout my j
 
 Each project is documented with clear explanations on the technologies used, the purpose of the project, and how to run or interact with it.
 
-### Technology 
-Vue.js
+Technology - Vue.js
