@@ -8,4 +8,4 @@ Each project is documented with clear explanations on the technologies used, the
 
 Technology - Vue.js
 
-[Link to Portfolio](sandali-herath.netlify.app)
+[Link to Portfolio](https://sandali-herath.netlify.app/)
